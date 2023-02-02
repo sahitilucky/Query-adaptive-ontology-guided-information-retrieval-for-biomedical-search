@@ -1,0 +1,7 @@
+diseases	20995	702449	0.02988
+chemicals and drugs	912	79096	0.0115
+psychiatry and psychology	808	53645	0.01506
+phenomena and processes	264	19266	0.0137
+anatomy	18	290	0.062
+analytical, diagnostic and therapeutic techniques and equipment	12	1387	0.0086
+technology, industry, agriculture	11	1563	0.0070
