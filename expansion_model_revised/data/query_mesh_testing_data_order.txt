@@ -1,0 +1,275 @@
+1	0	12	ferroportin-1	Gene
+1	43	55	ferroportin-1	Gene
+1	86	98	ferroportin-1	Gene
+1	59	63	iron	Chemical
+1	151	155	iron	Chemical
+1	317	321	iron	Chemical
+1	16	22	humans	species
+1	79	85	humans	species
+2	11	26	transgenic mice	species
+2	57	72	transgenic mice	species
+2	105	120	transgenic mice	species
+2	22	26	rats	species
+2	69	73	rats	species
+2	118	122	rats	species
+3	41	47	kidney	NA
+3	116	122	kidney	NA
+3	168	174	kidney	NA
+3	35	40	mice	species
+3	16	31	Gene expression	NA
+3	75	90	Gene expression	NA
+4	29	35	kidney	NA
+4	81	87	kidney	NA
+4	132	138	kidney	NA
+4	39	43	mice	species
+4	0	15	Gene expression	NA
+5	88	113	subcellular fractionation	NA
+5	118	124	nucleus	NA
+6	79	93	fanconi anemia	Disease
+6	0	6	fancd2	Gene
+6	39	45	fancd2	Gene
+6	125	131	fancd2	Gene
+6	145	151	fancd2	Gene
+6	207	213	fancd2	Gene
+6	249	255	fancd2	Gene
+7	0	10	dna repair	NA
+7	57	67	dna repair	NA
+7	155	165	dna repair	NA
+7	15	31	oxidative stress	Disease
+7	81	97	oxidative stress	Disease
+7	130	146	oxidative stress	Disease
+8	20	30	dna repair	NA
+8	94	104	dna repair	NA
+8	293	303	dna repair	NA
+8	109	118	oxidative stress	Disease
+8	332	341	oxidative stress	Disease
+8	44	55	skin cancer	Disease
+8	147	163	uv-carcinoGenesis	Disease
+9	49	55	humans	species
+9	0	4	muty	Gene
+9	41	45	muty	Gene
+9	56	60	muty	Gene
+10	100	110	dna repair	NA
+10	0	5	neil1	Gene
+10	38	43	neil1	Gene
+10	85	90	neil1	Gene
+11	0	14	carcinoGenesis	Disease
+11	57	71	carcinoGenesis	Disease
+11	19	32	hairless mice	NA
+11	83	96	hairless mice	NA
+12	265	269	Gene regulation	NA
+12	84	90	signal transduction	NA
+12	161	166	mice	species
+12	306	311	mice	species
+12	326	331	mice	species
+12	19	24	smad4	Gene
+12	111	116	smad4	Gene
+12	144	149	smad4	Gene
+12	235	240	smad4	Gene
+13	8	12	angiogenic proteins	Gene
+13	70	74	angiogenic proteins	Gene
+13	144	148	angiogenic proteins	Gene
+13	114	125	homeostasis	NA
+13	251	262	homeostasis	NA
+13	127	130	growth and development	NA
+13	250	253	growth and development	NA
+13	8	12	tgfb	Gene
+13	69	73	tgfb	Gene
+13	142	146	tgfb	Gene
+13	32	36	skin	Disease
+13	93	97	skin	Disease
+14	28	32	tgfb	Gene
+14	70	74	tgfb	Gene
+14	172	176	tgfb	Gene
+14	36	49	hnscc cancers	NA
+14	103	116	hnscc cancers	NA
+14	0	10	Gene expression regulation	NA
+14	76	86	Gene expression regulation	NA
+15	0	6	atpase	Gene
+15	11	20	apoptosis	Disease
+15	60	69	apoptosis	Disease
+15	133	142	apoptosis	Disease
+16	0	12	aaa proteins	NA
+16	20	32	aaa proteins	NA
+16	58	64	lipids	NA
+16	68	71	dna	Chemical
+17	4	12	antibody affinity	NA
+17	64	72	antibody affinity	NA
+17	111	119	antibody affinity	NA
+17	49	52	p53	Gene
+18	40	50	cell cycle	NA
+18	114	124	cell cycle	NA
+18	184	194	cell cycle	NA
+18	59	69	carbohydrate metabolism	NA
+18	202	212	carbohydrate metabolism	NA
+18	132	137	yeasts	NA
+18	0	4	gis4	Gene
+18	19	23	gis4	Gene
+18	88	92	gis4	Gene
+18	311	315	gis4	Gene
+19	102	118	promoter regions	NA
+19	27	31	gal1	Gene
+19	122	126	gal1	Gene
+19	36	40	suc1	Gene
+19	131	135	suc1	Gene
+20	26	35	ubiquitin	Gene
+20	144	153	ubiquitin	Gene
+20	180	189	ubiquitin	Gene
+20	101	109	protein modification	NA
+20	173	181	protein modification	NA
+20	212	220	protein modification	NA
+21	35	45	dna damage	Disease
+21	109	119	dna damage	Disease
+21	120	130	dna damage	Disease
+21	231	241	dna damage	Disease
+21	67	77	cell cycle	NA
+21	141	151	cell cycle	NA
+21	88	97	apoptosis	Disease
+21	162	171	apoptosis	Disease
+21	8	11	p63	Gene
+21	49	52	p63	Gene
+21	172	175	p63	Gene
+21	16	19	p73	Gene
+21	57	60	p73	Gene
+21	180	183	p73	Gene
+22	21	24	p53	Gene
+22	111	114	p53	Gene
+22	290	293	p53	Gene
+22	95	105	dna breaks	NA
+22	58	72	single-stranded	Disease
+22	80	94	double-stranded	NA
+23	0	33	saccharomyces cerevisiae proteins	NA
+23	69	102	saccharomyces cerevisiae proteins	NA
+23	46	55	ubiquitin	Gene
+23	123	132	ubiquitin	Gene
+24	6	19	peptidoglycan recognition protein	NA
+24	83	96	peptidoglycan recognition protein	NA
+24	0	5	mice	species
+24	77	82	mice	species
+24	201	206	mice	species
+25	9	20	scleroderma	Disease
+25	116	127	scleroderma	Disease
+25	184	195	scleroderma	Disease
+25	72	91	microarray analysis	NA
+26	39	50	cytokinesis	NA
+26	115	126	cytokinesis	NA
+26	132	137	yeasts	NA
+26	98	102	bub2	Gene
+26	107	111	bfa1	Gene
+27	8	17	autophagy	NA
+27	101	110	autophagy	NA
+27	21	30	apoptosis	Disease
+27	115	124	apoptosis	Disease
+28	46	55	autophagy	NA
+28	150	159	autophagy	NA
+28	255	264	autophagy	NA
+28	32	41	apoptosis	Disease
+28	136	145	apoptosis	Disease
+28	241	250	apoptosis	Disease
+28	56	66	cell death	Disease
+28	109	122	morphological and microscopic findings	NA
+28	0	9	proteases	NA
+29	14	18	gyra	NA
+29	89	93	gyra	NA
+29	137	141	gyra	NA
+29	196	200	gyra	NA
+29	19	28	mutation	Disease
+29	96	105	mutation	Disease
+29	145	154	mutation	Disease
+29	82	88	e. coli	species
+29	155	161	e. coli	species
+29	69	79	phenotype	NA
+30	26	29	homeodomain proteins	Gene
+30	26	29	transcription factors	Gene
+30	92	95	homeodomain proteins	Gene
+30	92	95	transcription factors	Gene
+30	156	159	homeodomain proteins	Gene
+30	156	159	transcription factors	Gene
+30	30	34	Gene expression regulation	NA
+30	96	100	Gene expression regulation	NA
+31	0	3	tor	Gene
+31	101	104	tor	Gene
+31	115	118	tor	Gene
+31	17	34	neurofibromatosis	Disease
+31	79	96	neurofibromatosis	Disease
+32	0	9	xenograft	NA
+32	68	77	xenograft	NA
+32	104	113	xenograft	NA
+33	60	80	mutant mouse strains	NA
+33	24	38	histoplasmosis	Disease
+34	17	29	cryptococcus	species
+34	130	142	cryptococcus	species
+34	235	247	cryptococcus	species
+34	0	13	Gene products	NA
+34	113	126	Gene products	NA
+35	0	4	wd40	NA
+35	75	79	wd40	NA
+35	22	30	proteins	Disease
+35	55	63	proteins	Disease
+36	0	5	rab3a	Gene
+36	32	37	rab3a	Gene
+37	0	3	pam	Disease
+37	60	63	pam	Disease
+37	85	88	pam	Disease
+38	17	23	stroke	Disease
+38	103	109	stroke	Disease
+38	251	257	stroke	Disease
+38	118	135	apolipoprotein e4	Gene
+38	139	147	factor v	Gene
+38	55	59	loci	NA
+38	0	12	risk factors	NA
+38	234	246	risk factors	NA
+39	49	61	risk factors	NA
+39	253	265	risk factors	NA
+39	0	12	hypertension	Disease
+39	85	97	hypertension	Disease
+39	22	27	Genes	NA
+39	141	146	Genes	NA
+40	0	8	antigens	NA
+40	60	68	antigens	NA
+40	27	43	epithelial cells	NA
+40	87	103	epithelial cells	NA
+40	22	26	lung	Disease
+40	82	86	lung	Disease
+41	17	54	cftr	Gene
+41	129	166	cftr	Gene
+41	112	121	mutation	Disease
+41	191	200	mutation	Disease
+42	28	42	Genetic translocation	NA
+42	0	5	Genes	NA
+42	48	53	Genes	NA
+43	0	15	sleeping beauty	NA
+43	27	42	sleeping beauty	NA
+43	108	123	sleeping beauty	NA
+44	0	8	proteins	Disease
+44	106	114	proteins	Disease
+44	25	52	ngf	NA
+44	79	106	ngf	NA
+44	183	210	ngf	NA
+45	29	41	Genetic loci	NA
+45	0	13	mental health	NA
+45	50	63	mental health	NA
+45	98	111	mental health	NA
+46	16	36	biological processes	NA
+46	112	132	biological processes	NA
+46	11	16	humans	species
+46	0	4	rsk2	Gene
+46	40	44	rsk2	Gene
+47	11	15	bcl-2	Gene
+47	67	71	bcl-2	Gene
+47	16	42	antagonists and inhibitors	NA
+47	98	124	antagonists and inhibitors	NA
+48	6	14	homology	NA
+48	0	5	humans	species
+48	100	105	humans	species
+48	30	33	unc	Gene
+48	104	107	unc	Gene
+49	26	34	sequence	Disease
+49	112	120	sequence	Disease
+49	195	203	sequence	Disease
+49	274	282	sequence	Disease
+50	0	15	low temperature	NA
+50	95	110	low temperature	NA
+50	235	250	low temperature	NA
+50	24	34	expression	Chemical
+50	114	130	escherichia coli	NA

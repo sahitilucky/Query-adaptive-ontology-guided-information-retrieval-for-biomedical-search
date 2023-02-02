@@ -1,0 +1,356 @@
+1	0	12	ferroportin-1	Gene	MESH:C409881
+1	0	12	ferroportin-1	Gene	30061
+1	43	55	ferroportin-1	Gene	MESH:C409881
+1	43	55	ferroportin-1	Gene	30061
+1	86	98	ferroportin-1	Gene	MESH:C409881
+1	86	98	ferroportin-1	Gene	30061
+1	59	63	iron	Chemical	MESH:D007501
+1	151	155	iron	Chemical	MESH:D007501
+1	317	321	iron	Chemical	MESH:D007501
+1	16	22	humans	species	MESH:D006801
+1	79	85	humans	species	MESH:D006801
+2	11	26	transgenic mice	species	MESH:D055647
+2	57	72	transgenic mice	species	MESH:D055647
+2	105	120	transgenic mice	species	MESH:D055647
+2	22	26	rats	species	MESH:D051381
+2	69	73	rats	species	MESH:D051381
+2	118	122	rats	species	MESH:D051381
+3	41	47	kidney	NA	MESH:D007668
+3	116	122	kidney	NA	MESH:D007668
+3	168	174	kidney	NA	MESH:D007668
+3	35	40	mice	species	MESH:D051381
+3	16	31	Gene expression	NA	MESH:D015870
+3	75	90	Gene expression	NA	MESH:D015870
+4	29	35	kidney	NA	MESH:D007668
+4	81	87	kidney	NA	MESH:D007668
+4	132	138	kidney	NA	MESH:D007668
+4	39	43	mice	species	MESH:D051381
+4	0	15	Gene expression	NA	MESH:D015870
+5	88	113	subcellular fractionation	NA	MESH:D002458
+5	118	124	nucleus	NA	MESH:D002467
+6	79	93	fanconi anemia	Disease	MESH:D005199
+6	79	93	fanconi anemia	Disease	C0015625
+6	0	6	fancd2	Gene	MESH:D052236
+6	0	6	fancd2	Gene	2177
+6	39	45	fancd2	Gene	MESH:D052236
+6	39	45	fancd2	Gene	2177
+6	125	131	fancd2	Gene	MESH:D052236
+6	125	131	fancd2	Gene	2177
+6	145	151	fancd2	Gene	MESH:D052236
+6	145	151	fancd2	Gene	2177
+6	207	213	fancd2	Gene	MESH:D052236
+6	207	213	fancd2	Gene	2177
+6	249	255	fancd2	Gene	MESH:D052236
+6	249	255	fancd2	Gene	2177
+7	0	10	dna repair	NA	MESH:D004260
+7	57	67	dna repair	NA	MESH:D004260
+7	155	165	dna repair	NA	MESH:D004260
+7	15	31	oxidative stress	Disease	MESH:D018384
+7	81	97	oxidative stress	Disease	MESH:D018384
+7	130	146	oxidative stress	Disease	MESH:D018384
+8	20	30	dna repair	NA	MESH:D004260
+8	94	104	dna repair	NA	MESH:D004260
+8	293	303	dna repair	NA	MESH:D004260
+8	109	118	oxidative stress	Disease	MESH:D018384
+8	332	341	oxidative stress	Disease	MESH:D018384
+8	44	55	skin cancer	Disease	MESH:D012878
+8	44	55	skin cancer	Disease	C0037286
+8	44	55	skin cancer	Disease	C0007114
+8	147	163	uv-carcinoGenesis	Disease	MESH:D014983
+8	147	163	uv-carcinoGenesis	Disease	C0043346
+9	49	55	humans	species	MESH:D006801
+9	0	4	muty	Gene	MESH:C439046
+9	41	45	muty	Gene	MESH:C439046
+9	56	60	muty	Gene	MESH:C439046
+10	100	110	dna repair	NA	MESH:D004260
+10	0	5	neil1	Gene	MESH:C481347
+10	0	5	neil1	Gene	79661
+10	38	43	neil1	Gene	MESH:C481347
+10	38	43	neil1	Gene	79661
+10	85	90	neil1	Gene	MESH:C481347
+10	85	90	neil1	Gene	79661
+11	0	14	carcinoGenesis	Disease	MESH:D063646
+11	0	14	carcinoGenesis	Disease	C0596263
+11	57	71	carcinoGenesis	Disease	MESH:D063646
+11	57	71	carcinoGenesis	Disease	C0596263
+11	19	32	hairless mice	NA	MESH:D054772
+11	83	96	hairless mice	NA	MESH:D054772
+12	265	269	Gene regulation	NA	MESH:D005786
+12	84	90	signal transduction	NA	MESH:D015398
+12	161	166	mice	species	MESH:D051381
+12	306	311	mice	species	MESH:D051381
+12	326	331	mice	species	MESH:D051381
+12	19	24	smad4	Gene	MESH:D051901
+12	19	24	smad4	Gene	4089
+12	111	116	smad4	Gene	MESH:D051901
+12	111	116	smad4	Gene	4089
+12	144	149	smad4	Gene	MESH:D051901
+12	144	149	smad4	Gene	4089
+12	235	240	smad4	Gene	MESH:D051901
+12	235	240	smad4	Gene	4089
+13	8	12	angiogenic proteins	Gene	MESH:D042501
+13	70	74	angiogenic proteins	Gene	MESH:D042501
+13	144	148	angiogenic proteins	Gene	MESH:D042501
+13	114	125	homeostasis	NA	MESH:D006706
+13	251	262	homeostasis	NA	MESH:D006706
+13	127	130	growth and development	NA	MESH:D048788
+13	250	253	growth and development	NA	MESH:D048788
+13	8	12	tgfb	Gene	MESH:D016212
+13	69	73	tgfb	Gene	MESH:D016212
+13	142	146	tgfb	Gene	MESH:D016212
+13	32	36	skin	Disease	MESH:D012867
+13	93	97	skin	Disease	MESH:D012867
+14	28	32	tgfb	Gene	MESH:D016212
+14	70	74	tgfb	Gene	MESH:D016212
+14	172	176	tgfb	Gene	MESH:D016212
+14	36	49	hnscc cancers	NA	MESH:D006258
+14	36	49	hnscc cancers	NA	C0018671
+14	103	116	hnscc cancers	NA	MESH:D006258
+14	103	116	hnscc cancers	NA	C0018671
+14	0	10	Gene expression regulation	NA	MESH:D005786
+14	76	86	Gene expression regulation	NA	MESH:D005786
+15	0	6	atpase	Gene	MESH:D000251
+15	11	20	apoptosis	Disease	MESH:D017209
+15	60	69	apoptosis	Disease	MESH:D017209
+15	133	142	apoptosis	Disease	MESH:D017209
+16	0	12	aaa proteins	NA	MESH:D000074582
+16	20	32	aaa proteins	NA	MESH:D000074582
+16	58	64	lipids	NA	MESH:D008055
+16	68	71	dna	Chemical	MESH:D004247
+17	4	12	antibody affinity	NA	MESH:D000915
+17	64	72	antibody affinity	NA	MESH:D000915
+17	111	119	antibody affinity	NA	MESH:D000915
+17	49	52	p53	Gene	MESH:D016159
+17	49	52	p53	Gene	7157
+18	40	50	cell cycle	NA	MESH:D002453
+18	114	124	cell cycle	NA	MESH:D002453
+18	184	194	cell cycle	NA	MESH:D002453
+18	59	69	carbohydrate metabolism	NA	MESH:D050260
+18	202	212	carbohydrate metabolism	NA	MESH:D050260
+18	132	137	yeasts	NA	MESH:D015003
+18	0	4	gis4	Gene	MESH:C501882
+18	19	23	gis4	Gene	MESH:C501882
+18	88	92	gis4	Gene	MESH:C501882
+18	311	315	gis4	Gene	MESH:C501882
+19	102	118	promoter regions	NA	MESH:D011401
+19	27	31	gal1	Gene	MESH:C524219
+19	122	126	gal1	Gene	MESH:C524219
+19	36	40	suc1	Gene	MESH:C051655
+19	131	135	suc1	Gene	MESH:C051655
+20	26	35	ubiquitin	Gene	MESH:D025801
+20	144	153	ubiquitin	Gene	MESH:D025801
+20	180	189	ubiquitin	Gene	MESH:D025801
+20	101	109	protein modification	NA	MESH:D046188
+20	173	181	protein modification	NA	MESH:D046188
+20	212	220	protein modification	NA	MESH:D046188
+21	35	45	dna damage	Disease	MESH:D004249
+21	109	119	dna damage	Disease	MESH:D004249
+21	120	130	dna damage	Disease	MESH:D004249
+21	231	241	dna damage	Disease	MESH:D004249
+21	67	77	cell cycle	NA	MESH:D002453
+21	141	151	cell cycle	NA	MESH:D002453
+21	88	97	apoptosis	Disease	MESH:D017209
+21	162	171	apoptosis	Disease	MESH:D017209
+21	8	11	p63	Gene	MESH:C115051
+21	8	11	p63	Gene	8626
+21	49	52	p63	Gene	MESH:C115051
+21	49	52	p63	Gene	8626
+21	172	175	p63	Gene	MESH:C115051
+21	172	175	p63	Gene	8626
+21	16	19	p73	Gene	MESH:D000072160
+21	16	19	p73	Gene	7161
+21	57	60	p73	Gene	MESH:D000072160
+21	57	60	p73	Gene	7161
+21	180	183	p73	Gene	MESH:D000072160
+21	180	183	p73	Gene	7161
+22	21	24	p53	Gene	MESH:D016159
+22	21	24	p53	Gene	7157
+22	111	114	p53	Gene	MESH:D016159
+22	111	114	p53	Gene	7157
+22	290	293	p53	Gene	MESH:D016159
+22	290	293	p53	Gene	7157
+22	95	105	dna breaks	NA	MESH:D053960
+22	58	72	single-stranded	Disease	MESH:D004277
+22	80	94	double-stranded	NA	MESH:D053903
+23	0	33	saccharomyces cerevisiae proteins	NA	MESH:D029701
+23	69	102	saccharomyces cerevisiae proteins	NA	MESH:D029701
+23	46	55	ubiquitin	Gene	MESH:D025801
+23	123	132	ubiquitin	Gene	MESH:D025801
+24	6	19	peptidoglycan recognition protein	NA	MESH:C118897
+24	6	19	peptidoglycan recognition protein	NA	114770
+24	83	96	peptidoglycan recognition protein	NA	MESH:C118897
+24	83	96	peptidoglycan recognition protein	NA	114770
+24	0	5	mice	species	MESH:D051381
+24	77	82	mice	species	MESH:D051381
+24	201	206	mice	species	MESH:D051381
+25	9	20	scleroderma	Disease	MESH:D012595
+25	9	20	scleroderma	Disease	C0036421
+25	9	20	scleroderma	Disease	C0011644
+25	116	127	scleroderma	Disease	MESH:D012595
+25	116	127	scleroderma	Disease	C0036421
+25	116	127	scleroderma	Disease	C0011644
+25	184	195	scleroderma	Disease	MESH:D012595
+25	184	195	scleroderma	Disease	C0036421
+25	184	195	scleroderma	Disease	C0011644
+25	72	91	microarray analysis	NA	MESH:D046228
+26	39	50	cytokinesis	NA	MESH:D048749
+26	115	126	cytokinesis	NA	MESH:D048749
+26	132	137	yeasts	NA	MESH:D015003
+26	98	102	bub2	Gene	MESH:C070351
+26	107	111	bfa1	Gene	MESH:C119117
+27	8	17	autophagy	NA	MESH:D001343
+27	101	110	autophagy	NA	MESH:D001343
+27	21	30	apoptosis	Disease	MESH:D017209
+27	115	124	apoptosis	Disease	MESH:D017209
+28	46	55	autophagy	NA	MESH:D001343
+28	150	159	autophagy	NA	MESH:D001343
+28	255	264	autophagy	NA	MESH:D001343
+28	32	41	apoptosis	Disease	MESH:D017209
+28	136	145	apoptosis	Disease	MESH:D017209
+28	241	250	apoptosis	Disease	MESH:D017209
+28	56	66	cell death	Disease	MESH:D016923
+28	109	122	morphological and microscopic findings	NA	MESH:D065308
+28	0	9	proteases	NA	MESH:D010450
+29	14	18	gyra	NA	MESH:D027081
+29	89	93	gyra	NA	MESH:D027081
+29	137	141	gyra	NA	MESH:D027081
+29	196	200	gyra	NA	MESH:D027081
+29	19	28	mutation	Disease	MESH:D009154
+29	96	105	mutation	Disease	MESH:D009154
+29	145	154	mutation	Disease	MESH:D009154
+29	82	88	e. coli	species	MESH:D004926
+29	155	161	e. coli	species	MESH:D004926
+29	69	79	phenotype	NA	MESH:D010641
+30	26	29	homeodomain proteins	Gene	MESH:D018398
+30	26	29	transcription factors	Gene	MESH:D014157
+30	92	95	homeodomain proteins	Gene	MESH:D018398
+30	92	95	transcription factors	Gene	MESH:D014157
+30	156	159	homeodomain proteins	Gene	MESH:D018398
+30	156	159	transcription factors	Gene	MESH:D014157
+30	30	34	Gene expression regulation	NA	MESH:D005786
+30	96	100	Gene expression regulation	NA	MESH:D005786
+31	0	3	tor	Gene	MESH:D058570
+31	0	3	tor	Gene	2475
+31	101	104	tor	Gene	MESH:D058570
+31	101	104	tor	Gene	2475
+31	115	118	tor	Gene	MESH:D058570
+31	115	118	tor	Gene	2475
+31	17	34	neurofibromatosis	Disease	MESH:D017253
+31	17	34	neurofibromatosis	Disease	C0027832
+31	17	34	neurofibromatosis	Disease	C0162678
+31	17	34	neurofibromatosis	Disease	C0027831
+31	17	34	neurofibromatosis	Disease	C0220695
+31	79	96	neurofibromatosis	Disease	MESH:D017253
+31	79	96	neurofibromatosis	Disease	C0027832
+31	79	96	neurofibromatosis	Disease	C0162678
+31	79	96	neurofibromatosis	Disease	C0027831
+31	79	96	neurofibromatosis	Disease	C0220695
+32	0	9	xenograft	NA	MESH:D023041
+32	68	77	xenograft	NA	MESH:D023041
+32	104	113	xenograft	NA	MESH:D023041
+33	60	80	mutant mouse strains	NA	MESH:D008817
+33	24	38	histoplasmosis	Disease	MESH:D006660
+33	24	38	histoplasmosis	Disease	C0153261
+33	24	38	histoplasmosis	Disease	C0035288
+33	24	38	histoplasmosis	Disease	C0019655
+34	17	29	cryptococcus	species	MESH:D003454
+34	130	142	cryptococcus	species	MESH:D003454
+34	235	247	cryptococcus	species	MESH:D003454
+34	0	13	Gene products	NA	MESH:D011506
+34	113	126	Gene products	NA	MESH:D011506
+35	0	4	wd40	NA	MESH:D000071678
+35	75	79	wd40	NA	MESH:D000071678
+35	22	30	proteins	Disease	MESH:D011506
+35	55	63	proteins	Disease	MESH:D011506
+36	0	5	rab3a	Gene	MESH:D020826
+36	0	5	rab3a	Gene	5864
+36	32	37	rab3a	Gene	MESH:D020826
+36	32	37	rab3a	Gene	5864
+37	0	3	pam	Disease	MESH:C544787
+37	0	3	pam	Disease	5066
+37	60	63	pam	Disease	MESH:C544787
+37	60	63	pam	Disease	5066
+37	85	88	pam	Disease	MESH:C544787
+37	85	88	pam	Disease	5066
+38	17	23	stroke	Disease	MESH:D020521
+38	17	23	stroke	Disease	C0038454
+38	17	23	stroke	Disease	C0007820
+38	17	23	stroke	Disease	C0751956
+38	103	109	stroke	Disease	MESH:D020521
+38	103	109	stroke	Disease	C0038454
+38	103	109	stroke	Disease	C0007820
+38	103	109	stroke	Disease	C0751956
+38	251	257	stroke	Disease	MESH:D020521
+38	251	257	stroke	Disease	C0038454
+38	251	257	stroke	Disease	C0007820
+38	251	257	stroke	Disease	C0751956
+38	118	135	apolipoprotein e4	Gene	MESH:D053327
+38	139	147	factor v	Gene	MESH:D005165
+38	55	59	loci	NA	MESH:D056426
+38	0	12	risk factors	NA	MESH:D012307
+38	234	246	risk factors	NA	MESH:D012307
+39	49	61	risk factors	NA	MESH:D012307
+39	253	265	risk factors	NA	MESH:D012307
+39	0	12	hypertension	Disease	MESH:D006973
+39	0	12	hypertension	Disease	C0020538
+39	85	97	hypertension	Disease	MESH:D006973
+39	85	97	hypertension	Disease	C0020538
+39	22	27	Genes	NA	MESH:D005796
+39	141	146	Genes	NA	MESH:D005796
+40	0	8	antigens	NA	MESH:D000941
+40	60	68	antigens	NA	MESH:D000941
+40	27	43	epithelial cells	NA	MESH:D004847
+40	87	103	epithelial cells	NA	MESH:D004847
+40	22	26	lung	Disease	MESH:D008168
+40	82	86	lung	Disease	MESH:D008168
+41	17	54	cftr	Gene	MESH:D019005
+41	17	54	cftr	Gene	1080
+41	129	166	cftr	Gene	MESH:D019005
+41	129	166	cftr	Gene	1080
+41	112	121	mutation	Disease	MESH:D009154
+41	191	200	mutation	Disease	MESH:D009154
+42	28	42	Genetic translocation	NA	MESH:D014178
+42	0	5	Genes	NA	MESH:D005796
+42	48	53	Genes	NA	MESH:D005796
+43	0	15	sleeping beauty	NA	MESH:C494471
+43	27	42	sleeping beauty	NA	MESH:C494471
+43	108	123	sleeping beauty	NA	MESH:C494471
+44	0	8	proteins	Disease	MESH:D011506
+44	106	114	proteins	Disease	MESH:D011506
+44	25	52	ngf	NA	MESH:D020932
+44	25	52	ngf	NA	4803
+44	79	106	ngf	NA	MESH:D020932
+44	79	106	ngf	NA	4803
+44	183	210	ngf	NA	MESH:D020932
+44	183	210	ngf	NA	4803
+45	29	41	Genetic loci	NA	MESH:D056426
+45	0	13	mental health	NA	MESH:D008603
+45	50	63	mental health	NA	MESH:D008603
+45	98	111	mental health	NA	MESH:D008603
+46	16	36	biological processes	NA	MESH:D001686
+46	112	132	biological processes	NA	MESH:D001686
+46	11	16	humans	species	MESH:D006801
+46	0	4	rsk2	Gene	MESH:C069330
+46	0	4	rsk2	Gene	6196
+46	40	44	rsk2	Gene	MESH:C069330
+46	40	44	rsk2	Gene	6196
+47	11	15	bcl-2	Gene	MESH:D019254
+47	11	15	bcl-2	Gene	596
+47	67	71	bcl-2	Gene	MESH:D019254
+47	67	71	bcl-2	Gene	596
+47	16	42	antagonists and inhibitors	NA	MESH:Q000037
+47	98	124	antagonists and inhibitors	NA	MESH:Q000037
+48	6	14	homology	NA	MESH:D017385
+48	0	5	humans	species	MESH:D006801
+48	100	105	humans	species	MESH:D006801
+48	30	33	unc	Gene	MESH:C495209
+48	104	107	unc	Gene	MESH:C495209
+49	26	34	sequence	Disease	MESH:D001483
+49	112	120	sequence	Disease	MESH:D001483
+49	195	203	sequence	Disease	MESH:D001483
+49	274	282	sequence	Disease	MESH:D001483
+50	0	15	low temperature	NA	MESH:D003080
+50	95	110	low temperature	NA	MESH:D003080
+50	235	250	low temperature	NA	MESH:D003080
+50	24	34	expression	Chemical	MESH:D015870
+50	114	130	escherichia coli	NA	MESH:D004926

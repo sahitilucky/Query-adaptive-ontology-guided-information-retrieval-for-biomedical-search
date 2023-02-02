@@ -1,0 +1,100 @@
+Ferroportin-1, SLC40A1, IREG1, human, humans, Homo sapiens
+transgenic mice, protocol, generate
+mouse, kidney, gene, expression, time course
+mouse, mice, kidney, gene, genes, expression, profile, profiles
+nuclei, isolate, subcellular, fractionation, protocol
+FancD2, Fanconi Anemia
+DNA repair, oxidative stress
+DNA repair, skin cancer, oxidative disease, oxidative diseases, skin-carcinogenesis, UV-carcinogenesis
+mutY, hMYH, human, humans, Homo sapiens
+NEIL1, DNA repair
+carcinogenesis, mice, mouse, hair
+Smad4, regulation
+TGFB, angiogenesis, homeostasis, development, inflammatory perturbation, skin
+TGFB, HNSCC, expression, regulation
+ATPase, apoptosis
+AAA, protein, lipid, DNA
+DO1, binding affinity
+Gis4, cell cycle, metabolism, carbon, pathway, pathways, yeast, S. cerevisiae, S.cerevisiae, S cerevisiae
+GAL1, SUC1, SNF1, promoter
+ubiquitin, ubiquitins, constituent, protein, proteins, covalent, covalence, attachment, attach, attached
+p63, p73, DNA damage, cell cycle, arrest, apoptosis
+p53, DNA damage, single-stranded, double-stranded, strand, strands, single, double
+ubiquitin, proteolytic, Saccharomyces cerevisiae, protein
+PGRP, mouse
+scleroderma, genome-wide scans, microarray
+BUB2, BFA1, cytokinesis, yeast
+autophagy, apoptosis
+protease, proteases, apoptosis, autophagy, cell death
+gyrA, E. coli, mutation, sequence, phenotype
+Nkx, regulatory target
+TOR, signaling, neurofibromatosis
+xenograft, human, cancer
+mice, mutant, strain, Histoplasmosis
+Cryptococcus, fungi, survival, gene, genes, product, products
+WD40, repeat, function
+RAB3A
+PAM, Peptidyl-glycine alpha-amidating monooxygenase, peptidylglycine alpha-amidating monooxygenase
+stroke, risk, apolipoprotein E4, factor V, mutation
+hypertension, gene, risk
+antigen, antigens, lung, epithelial, cell, cells
+Cystic Fibrosis, conductance, regulator, gene, mutation
+chromosome, translocation, DNA, rearrangement, gene, behavior
+Sleeping, Beauty, SB, transposon, transposons, transposase
+nerve, growth factor, pathway, protein
+mental, disorder, disorders, gene, genes, MWH1
+RSK2, human, biological process
+BCL-2, BCL2, human, humans, Homo sapiens, antagonist, inhibitor, inhibotors
+UNC, human
+glyphosate, tolerance, tolerant, gene, genes, sequence, sequences
+protein, proteins, expression, E. coli, E coli, E.coli, yeast, low temperature
+electroporation, protocol
+GST, glutathione S-transferase, glutathione, transferase, transferases, cleavage, cleave, affinity, chromatography
+gel, porous, component, components
+GFP, green, fluorescent, fluorescence, protein, proteins
+microsomal, budding, assay
+IgM, rat, purification
+chromatin, immuno, immune, precipitation, precipitate
+microarray, normalization
+protein-protein, protein, interaction, PPI, in vivo, method, identify, living cell
+fluorogenic, 5'-nuclease, 5, nuclease, assay
+Interferon-beta, Multiple Sclerosis
+PRNP, Mad Cow Disease
+IDE, insulin degrading enzyme, insulin-degrading enzyme, insulysin, insulin protease, insulinase, Alzheimer's Disease
+MMS2, cancer
+APC, Colon Cancer
+Nurr-77, NUR/77, NUR77, nuclear hormone receptor, Parkinson's Disease
+Insulin receptor, INSR, IR, cancer
+ApoE, Alzheimer's Disease
+TGF-beta1, TGFβ1, Transforming growth factor-beta1, Transforming growth factor beta 1, Cerebral Amyloid Angiopathy
+GSTM1, Breast Cancer
+NM23, tumor, progression
+BARD1, BRCA1, regulation
+APC, adenomatous polyposis coli, deleted in polyposis 2.5, DP2.5, actin, assembly
+COP2, COPII, CFTR, cystic fibrosis transmembrane conductance regulator, endoplasmic reticulum, transport
+casein kinase II, casein kinase 2, CK2, CSNK2, CSNK2A1, CSNK2A2, CSNK2B, ribosome, assembly
+Nurr-77, Nurr-77, NUR/77, NUR77, nuclear hormone receptor, T-cells T cell, T-cell, T cells
+P53, apoptosis
+alpha7, nicotinic receptor, subunit, gene, ethanol, metabolism
+GABABR, inhibitory, synaptic, transmission
+Interferon-beta, Interferon beta, Beta interferons, Beta interferon, Interferon beta-1a, interferon beta 1-alpha, Interferon beta-1b, virus, viral, host
+BRCA1, ubiquitin, cancer
+L1, L2, HPV11
+APC, wnt, colon cancer
+PLA2, Phospholipases A2, PLA2s, iPLA2, lp-PLA2, PAF-AH, SAR1, SAR1A, SARA1, COPII-Associated Small GTPase, Small COPII coat GTPase, Endoplasmic reticulum, transport, transportation
+CFTR, Cystic fibrosis transmembrane conductance regulator, Sec61, SEC61A1, SEC61A2, SEC61B, SEC61G, degradation, degrade, cystic fibrosis
+Bop, Pes, cell growth
+alpha7 nicotinic receptor, alpha-7 nicotinic receptor, α7 receptor, α7-receptor, alpha7,  α7, receptor, ApoE, Apolipoprotein E, APO-E, ethanol, neurotoxic, neural, neuron, toxic, toxicity
+Insulin-like, growth factor, IGF, IGF-1, insulin receptor, INSR, IR, skin
+HNF4, Hepatocyte Nuclear Factor 4, HNF4A, HNF4G, COUP-TF I, COUP Transcription Factor 1, NR2F1, liver
+Ret, GDNF, kidney
+BRCA1, 185delAG, ovarian cancer
+Huntingtin, Huntington's Disease, mutation
+Sonic hedgehog, SHH, developmental disorder, developmental disorders, development, disorder, disorders
+NM23, tracheal
+Pes, cell growth
+hypocretin receptor 2, narcolepsy, mutation
+presenilin-1, PSEN1, PS-1, Alzheimer's disease
+alpha7 nAChR, Alpha7 nicotinic acetylcholine receptor, α7 nAChR, alpha7, nAChR, α7, nAChR, alcoholism, alcohol
+FHM1, FHM, MHP1, Ca2+, calcium, Ca, iron
+alpha, alpha4, GABAA, receptor, GABAA receptor, alpha 4, GABAAR, behavior

@@ -1,0 +1,81 @@
+1	0	12	ferroportin-1	Gene
+1	43	55	ferroportin-1	Gene
+1	86	98	ferroportin-1	Gene
+6	79	93	fanconi anemia	Disease
+6	0	6	fancd2	Gene
+6	39	45	fancd2	Gene
+6	125	131	fancd2	Gene
+6	145	151	fancd2	Gene
+6	207	213	fancd2	Gene
+6	249	255	fancd2	Gene
+8	44	55	skin cancer	Disease
+8	44	55	skin cancer	Disease
+8	147	163	uv-carcinoGenesis	Disease
+10	0	5	neil1	Gene
+10	38	43	neil1	Gene
+10	85	90	neil1	Gene
+11	0	14	carcinoGenesis	Disease
+11	57	71	carcinoGenesis	Disease
+12	19	24	smad4	Gene
+12	111	116	smad4	Gene
+12	144	149	smad4	Gene
+12	235	240	smad4	Gene
+14	36	49	hnscc cancers	NA
+14	103	116	hnscc cancers	NA
+17	49	52	p53	Gene
+21	8	11	p63	Gene
+21	49	52	p63	Gene
+21	172	175	p63	Gene
+21	16	19	p73	Gene
+21	57	60	p73	Gene
+21	180	183	p73	Gene
+22	21	24	p53	Gene
+22	111	114	p53	Gene
+22	290	293	p53	Gene
+24	6	19	peptidoglycan recognition protein	NA
+24	83	96	peptidoglycan recognition protein	NA
+25	9	20	scleroderma	Disease
+25	9	20	scleroderma	Disease
+25	116	127	scleroderma	Disease
+25	116	127	scleroderma	Disease
+25	184	195	scleroderma	Disease
+25	184	195	scleroderma	Disease
+31	0	3	tor	Gene
+31	101	104	tor	Gene
+31	115	118	tor	Gene
+31	17	34	neurofibromatosis	Disease
+31	17	34	neurofibromatosis	Disease
+31	17	34	neurofibromatosis	Disease
+31	17	34	neurofibromatosis	Disease
+31	79	96	neurofibromatosis	Disease
+31	79	96	neurofibromatosis	Disease
+31	79	96	neurofibromatosis	Disease
+31	79	96	neurofibromatosis	Disease
+33	24	38	histoplasmosis	Disease
+33	24	38	histoplasmosis	Disease
+33	24	38	histoplasmosis	Disease
+36	0	5	rab3a	Gene
+36	32	37	rab3a	Gene
+37	0	3	pam	Disease
+37	60	63	pam	Disease
+37	85	88	pam	Disease
+38	17	23	stroke	Disease
+38	17	23	stroke	Disease
+38	17	23	stroke	Disease
+38	103	109	stroke	Disease
+38	103	109	stroke	Disease
+38	103	109	stroke	Disease
+38	251	257	stroke	Disease
+38	251	257	stroke	Disease
+38	251	257	stroke	Disease
+39	0	12	hypertension	Disease
+39	85	97	hypertension	Disease
+41	17	54	cftr	Gene
+41	129	166	cftr	Gene
+44	25	52	ngf	NA
+44	79	106	ngf	NA
+44	183	210	ngf	NA
+46	0	4	rsk2	Gene
+46	40	44	rsk2	Gene
+47	11	15	bcl-2	Gene
+47	67	71	bcl-2	Gene
