@@ -1,0 +1,36 @@
+mesh
+3405975
+intersection:
+('Number of docs with parent and children:', 1345156)
+
+269000
+disgenet
+('Number of docs with parent and children:', 289185)
+
+
+abstracts considered
+11459
+
+biomed new features
+disgenet
+Train Accuracy: 85.95441813682552 %
+Test Accuracy: 75.7 %
+mesh
+86%
+67.5%
+
+
+glove new features:
+disgenet
+
+mesh
+Train Accuracy: 90.75235854284963 %
+Test Accuracy: 67.4 %
+
+
+
+fold1:['10', '48', '17', '14', '9', '4', '50', '24', '34', '38']
+fold2:['31', '42', '21', '41', '7', '37', '12', '35', '30', '46']
+fold_3:['3', '49', '36', '22', '16', '26', '44', '5', '45', '8']
+fold_4: ['32', '28', '2', '33', '25', '13', '20', '23', '11', '27']
+fold_5:['47', '29', '43', '15', '1', '18', '39', '19', '40', '6']
