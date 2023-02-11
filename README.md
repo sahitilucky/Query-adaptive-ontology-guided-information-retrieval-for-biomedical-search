@@ -7,7 +7,7 @@ This is the code repository for the query adaptive ontology based information re
 ### Contents
 
 `Code` : Code for data cleaning, data processing and learning weights/factors called "Expansion factor" and "Ontology factor".
-`expansion_model_revised` : deep-learning method for learning one of the adaptive weights.
+`expansion_model_revised` : deep-learning method for learning one of the adaptive weights. 
 `BM25 results` : search ranking results with the BM25 and BM25 + query adaptive ontology guided results.  
 `LC_related_data` : word vocabulary, some of the data statistics
 
