@@ -14,6 +14,6 @@ This is the code repository for the query adaptive ontology based information re
 
 `LC_related_data` : word vocabulary, some of the data statistics
 
-## License
+### License
 
 By using this source code you agree to the license described in https://github.com/sahitilucky/Query-adaptive-ontology-guided-information-retrieval-for-biomedical-search/blob/master/LICENSE
