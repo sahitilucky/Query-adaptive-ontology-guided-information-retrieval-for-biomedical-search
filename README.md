@@ -13,5 +13,4 @@ This is the code repository for the query adaptive ontology based information re
 
 ## License
 
-By using this source code you agree to the license described in https://github.com/sahitilucky/Reliability-Aware-Tester-based-evaluation-framework/blob/master/LICENSE
-
+By using this source code you agree to the license described in https://github.com/sahitilucky/Query-adaptive-ontology-guided-information-retrieval-for-biomedical-search/blob/master/LICENSE
